@@ -1,6 +1,6 @@
 import os
 
-LINE = "Are you a firmware update? Because every time you show up, I feel like a better version of myself is about to restart."
+LINE = "You must be a firmware update, because my heart just restarted and somehow all my bugs feel like features now."
 
 
 def main():
